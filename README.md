@@ -1,3 +1,2 @@
 # Aptos Font
-
-## Standard font used by Microsoft Office
+Standard font used by Microsoft Office
